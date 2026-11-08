@@ -13,8 +13,8 @@ A responsive, static personal landing page with a restrained graphite/dark-grey 
 - Facebook: https://facebook.com/@gibran.fekri
 - TikTok: https://tiktok.com/@fegibr
 - GitHub: https://github.com/Viore-Byte/
-- LinkedIn: not added yet (the page displays a non-clickable placeholder)
-- Email: not provided (no fake address is displayed)
+- LinkedIn: linkedin.com/in/fekri-gibran-948456279
+- Email: gibranfekri@gmail.com
 
 ## Important
 The portfolio/project cards are clearly presented as planned learning areas/placeholders, not completed work. Replace them with real projects, descriptions, screenshots, and repository links as you build them. Do not publish confidential employer/client information or network diagrams without permission.
