@@ -13,7 +13,7 @@ A responsive, static personal landing page with a restrained graphite/dark-grey 
 - Facebook: https://facebook.com/@gibran.fekri
 - TikTok: https://tiktok.com/@fegibr
 - GitHub: https://github.com/Viore-Byte/
-- LinkedIn: linkedin.com/in/fekri-gibran-948456279
+- LinkedIn: https://linkedin.com/in/fekri-gibran-948456279
 - Email: gibranfekri@gmail.com
 
 ## Important
